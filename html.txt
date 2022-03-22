@@ -1,0 +1,17 @@
+HTML -> Hyper Text Markup Language
+We will be using tags inside HTML
+It is case insensitive
+
+HTML  html
+
+There are two types of tags
+
+<start tag>  </closing tag>
+
+<html>  </html>
+
+We have two types of list
+
+- ordered list
+
+- unordered list
